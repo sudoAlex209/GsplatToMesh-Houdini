@@ -12,5 +12,4 @@ REQUIREMENTS:
 - RealityScan
 - Lichtfeld Studio
 
-Watch this video for a guide on how to use the HDAs:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mmjcjUIBpg?si=gghm305s_xgTHro5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch this video for a guide on how to use the HDAs: https://youtu.be/8mmjcjUIBpg?si=Mi7q7l36lxW3BAbs
